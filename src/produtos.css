@@ -1,0 +1,66 @@
+body {
+    background-color: bisque;
+}
+
+.titulo {
+    text-align: center;
+    margin: 40 40;
+    margin-top: 50px;
+    padding: 50 50;
+}
+
+.loja {
+    width: 480px;
+    height: 300px;
+    margin: auto; 
+    display: block;
+    margin-block-end: 80px;
+}
+
+.desc-banho-e-tosa {
+    text-align: right;    
+}
+
+.banho-e-tosa {
+    font-weight: bold;
+    width: 300px;
+    height: 240px;
+    margin-left: auto;
+    display: block;
+    
+  }
+
+  .recepcao {
+    width: 300px;
+    height: 240px;
+}
+
+.entrada-pet-shop {
+    width: 300px;    
+    height: 240px;
+    text-align: center;
+}
+
+.dicas {
+    width: 300px;
+    height: 280px;
+    margin-block-end: 80px;
+}
+
+.desc-fachada {
+    text-align: right;
+}
+
+.fachada {
+    width: 300px;
+    height: 240px;
+    margin-left: auto;
+    display: block;    
+}
+
+.contato {
+    width: 220px;
+    height: 140px;
+    margin: auto;
+    display: block;
+}
